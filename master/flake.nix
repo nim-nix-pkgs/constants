@@ -9,7 +9,7 @@
   
   inputs.src-constants-master.flake = false;
   inputs.src-constants-master.owner = "juancarlospaco";
-  inputs.src-constants-master.ref   = "refs/heads/master";
+  inputs.src-constants-master.ref   = "master";
   inputs.src-constants-master.repo  = "nim-constants";
   inputs.src-constants-master.type  = "github";
   
